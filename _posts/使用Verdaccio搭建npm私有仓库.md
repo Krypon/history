@@ -1,5 +1,5 @@
 ---
-title: Verdaccio
+title: asd
 date: 2018-09-20
 categories: [node]
 tags: [docker,node,npm,verdaccio]
