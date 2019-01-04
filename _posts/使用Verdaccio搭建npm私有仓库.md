@@ -1,5 +1,5 @@
 ---
-title: 使用Verdaccio搭建npm私有仓库
+title: 使用Verdaccio
 date: 2018-09-20
 categories: [node]
 tags: [docker,node,npm,verdaccio]
